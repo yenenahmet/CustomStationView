@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StationView">
+        <!--2-->
+        <attr name="outerCircleColor" format="color"/>
+        <attr name="centerCirclePrimaryColor" format="color"/>
+        <attr name="centerCircleSecondaryColor" format="color"/>
+        <attr name="middleCircleColor" format="color"/>
+        <attr name="firstLineColor" format="color"/>
+        <attr name="secondLineColor" format="color"/>
+
+        <attr name="centerPercent" format="float"/>
+        <attr name="outerPercent" format="float"/>
+        <attr name="middlePercent" format="float"/>
+
+        <attr name="stationQuantity" format="integer"/>
+
+        <attr name="duration" format="integer"/>
+        <attr name="animationRepeatCount" format="integer"/>
+    </declare-styleable>
+
+</resources>
