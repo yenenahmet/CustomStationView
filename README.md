@@ -15,5 +15,5 @@ SETUP
 	}
 	
 	dependencies {
-	        implementation '  implementation 'com.github.yenenahmet:CustomStationView:0.1.0'
+	       implementation 'com.github.yenenahmet:CustomStationView:0.1.0'
 	}
